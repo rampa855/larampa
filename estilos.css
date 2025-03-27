@@ -3,6 +3,7 @@
 color: white;
 background-color:#23282B;
 height: 70px;
+width: 1000px;
 padding: 10px;
 font-size: 50px;
 margin-bottom: -40px;
@@ -11,7 +12,7 @@ margin-bottom: -40px;
 .bloque {
 background-color: orangered;
 height: 45px;
-width: px;
+width: 1000px;
 padding: 10px;
 font-size: 25px;
 color: white;
