@@ -1,11 +1,11 @@
 
 .Rampa {
 color: white;
-background-color:black;
+background-color:#23282B;
 height: 70px;
 padding: 10px;
 font-size: 50px;
-margin-bottom: 0px;
+margin-bottom: -40px;
 }
 
 .bloque {
@@ -39,7 +39,7 @@ padding: 10px;
 a {
 
 color: white;
-background-color: black;
+background-color:#23282B;
 text-decoration: none;
 
 }
@@ -48,12 +48,12 @@ a:hover{
 }
 
 .menu{
-background-color: black;
+background-color: #23282B;
 height:50px ;
 padding: 0px;
 text-align: left;
 font-size: 30px;
-margin-top: -40px;
+margin-top: 0px;
 }
 
 
