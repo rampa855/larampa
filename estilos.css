@@ -3,7 +3,7 @@
 color: white;
 background-color:#23282B;
 height: 70px;
-width: 1000px;
+width: 100%;
 padding: 10px;
 font-size: 50px;
 margin-bottom: -40px;
@@ -12,7 +12,7 @@ margin-bottom: -40px;
 .bloque {
 background-color: orangered;
 height: 45px;
-width: 1000px;
+width: 100%;
 padding: 10px;
 font-size: 25px;
 color: white;
@@ -24,8 +24,7 @@ font-size: 20px;
 margin-block: 10px;
 padding: 10px;
 margin-bottom: 10px;
-
-
+width: 100%;
 
 }
 
@@ -33,6 +32,7 @@ margin-bottom: 10px;
 font-size: 29px;
 margin-block: 10px;
 padding: 10px;
+width: 100%;
 
 
 }
@@ -42,6 +42,7 @@ a {
 color: white;
 background-color:#23282B;
 text-decoration: none;
+width: 100%;
 
 }
 a:hover{
@@ -51,16 +52,17 @@ a:hover{
 .menu{
 background-color: #23282B;
 height:50px ;
-padding: 0px;
 text-align: left;
 font-size: 30px;
 margin-top: 0px;
+width: 101.3%;
 }
 
 .pie {
 color:white;
 background-color:#23282B;
 text-align: center;
+width: 100%;
 
 }
 
