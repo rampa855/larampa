@@ -36,14 +36,15 @@ padding: 10px;
 
 }
 
-.menu {
+a {
+
+color: white;
 background-color: black;
-color:white;
-height:30px;
-padding: 10px;
 
 }
-
+a:hover{
+	background-color: orangered;
+}
 
 
 
