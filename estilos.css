@@ -2,7 +2,7 @@
 .Rampa {
 color: white;
 background-color:#23282B;
-height: 45px;
+height: 7%;
 width:95.6%;
 padding: 3%;
 font-size: 50px;
@@ -13,7 +13,7 @@ margin-left: -1%;
 
 .bloque {
 background-color: orangered;
-height: 45px;
+height: 7%;
 width: 99.5%;
 padding:1%;
 font-size: 30px;
@@ -30,6 +30,7 @@ margin-block: 1%;
 padding: 1%;
 margin-bottom: 1%;
 width: 80%;
+height: 20%;
 
 }
 
@@ -46,11 +47,11 @@ a:hover{
 
 .menu{
 background-color: #23282B;
-height:70px ;
-padding: 10px;
-margin-left: -9px;
+height:5%;
+padding: 1%;
+margin-left: -1%;
 font-size: 30px;
-margin-top: 0px;
+margin-top: 0%;
 width: 99.8%;
 }
 
@@ -59,9 +60,9 @@ color:white;
 background-color:#23282B;
 text-align: center;
 width: 101%;
-height: 105px;
-margin-left: -8px;
-margin-bottom: -10px;
+height: 30%;
+margin-left: -0.6%;
+margin-bottom: 1%;
 font-size: 17px;
 
 }
