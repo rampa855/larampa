@@ -3,40 +3,34 @@
 color: white;
 background-color:#23282B;
 height: 70px;
-width:101%;
+width:99.8%;
 padding: 10px;
 font-size: 50px;
 margin-bottom: -40px;
-margin-top: 0px;
+margin-top: -10px;
+margin-left: -8px;
 }
 
 .bloque {
 background-color: orangered;
 height: 45px;
-width: 101%;
+width: 99.8%;
 padding: 10px;
 font-size: 25px;
 color: white;
+margin-left: -9px;
 
 
 }
 .bloque1 {
-font-size: 20px;
+font-size: 28px;
 margin-block: 10px;
 padding: 10px;
 margin-bottom: 10px;
-width: 101%;
+width: 50%;
 
 }
 
-.bloque2 {
-font-size: 29px;
-margin-block: 10px;
-padding: 10px;
-width: 101%;
-
-
-}
 
 a {
 
@@ -51,11 +45,12 @@ a:hover{
 
 .menu{
 background-color: #23282B;
-height:50px ;
-text-align: left;
+height:70px ;
+padding: 10px;
+margin-left: -9px;
 font-size: 30px;
 margin-top: 0px;
-width: 101%;
+width: 99.8%;
 }
 
 .pie {
@@ -63,6 +58,10 @@ color:white;
 background-color:#23282B;
 text-align: center;
 width: 101%;
+height: 105px;
+margin-left: -8px;
+margin-bottom: -10px;
+font-size: 17px;
 
 }
 
