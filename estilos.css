@@ -14,22 +14,22 @@ margin-left: -1%;
 .bloque {
 background-color: orangered;
 height: 45px;
-width: 99.1%;
-padding:15px;
+width: 99.5%;
+padding:1%;
 font-size: 30px;
 color: white;
-margin-left: -9px;
-letter-spacing: 5px;
+margin-left: -1%;
+letter-spacing: 10px;
 
 
 }
 
 .bloque1 {
 font-size: 28px;
-margin-block: 10px;
-padding: 10px;
-margin-bottom: 10px;
-width: 50%;
+margin-block: 1%;
+padding: 1%;
+margin-bottom: 1%;
+width: 80%;
 
 }
 
