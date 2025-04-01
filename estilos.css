@@ -27,10 +27,10 @@ letter-spacing: 2px;
 }
 
 .bloque1 {
-font-size: 28px;
+font-size: 25px;
 margin-block: 1%;
 padding: 1%;
-margin-bottom: 1%;
+
 width:95%;
 height: 20%;
 text-align: center;
@@ -63,7 +63,7 @@ a:hover{
 .imagen {
 	width: 90px;
 	height: 90px;
-	margin-left: 37%;
+	margin-left: 40%;
 
 }
 
@@ -103,6 +103,7 @@ font-size: 17px;
             margin: 10px; 
             height: 10%;
             font-size: 25px;
+
         }
 
 
