@@ -9,6 +9,7 @@ font-size: 50px;
 margin-bottom: -1%;
 margin-top: -1%;
 margin-left: -1%;
+
 }
 
 .bloque {
@@ -82,4 +83,34 @@ margin-bottom: 1%;
 font-size: 17px;
 
 }
+
+.container {
+            display: flex; 
+            margin: 15px;
+            height: 80%;
+
+        }
+        .column {
+            flex: 1; 
+            padding: 10px;
+            margin: 10px; 
+            height: 10%;
+            font-size: 25px;
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
