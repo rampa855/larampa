@@ -60,6 +60,12 @@ a:hover{
 	background-color: orangered;
 }
 
+.imagen {
+	width: 80px;
+	margin-left: 37%;
+
+}
+
 .menu{
 background-color: #23282B;
 height:5%;
