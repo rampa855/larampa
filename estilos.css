@@ -115,14 +115,13 @@ font-size: 17px;
 
 
         }
+
         .column2 {
             flex: 1; 
             padding: 1%;
             margin: 1%; 
             height: 10%;
             font-size: 160%;
-            border: solid 4px;
-            border-color: black;
             background-color: orangered;
             color: white;
 
