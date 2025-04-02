@@ -94,10 +94,9 @@ font-size: 17px;
 
 .container {
             display: flex; 
-            margin: 5%;
             width: 80%;
             height: 80%;
-            margin-left: 11%;
+            margin-left: 10%;
 
         }
         .column {
