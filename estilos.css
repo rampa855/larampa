@@ -95,9 +95,9 @@ font-size: 17px;
 .container {
             display: flex; 
             margin: 5%;
-            width: 70%;
+            width: 80%;
             height: 80%;
-            margin-left: 15%;
+            margin-left: 11%;
 
         }
         .column {
