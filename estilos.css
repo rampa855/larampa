@@ -95,6 +95,7 @@ font-size: 17px;
 .container {
             display: flex; 
             margin: 5%;
+            width: 90%;
             height: 80%;
 
         }
@@ -103,7 +104,8 @@ font-size: 17px;
             padding: 1%;
             margin: 1%; 
             height: 10%;
-            font-size: 160%;
+            font-size: 150%;
+            width: 90%;
 
         }
 
