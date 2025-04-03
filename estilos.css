@@ -32,7 +32,6 @@ padding: 1%;
 width:95%;
 height: 20%;
 text-align: center;
-margin-top: -3%;
 
 }
 
@@ -58,6 +57,10 @@ text-decoration: none;
 
 a:hover{
 	background-color: orangered;
+}
+
+H1 :hover{
+    background-color: #23282B;
 }
 
 .imagen {
